@@ -1,0 +1,14 @@
+C:\Endeavours\WPF\MyBindingLaboratory\MyCustomControls\bin\Debug\MyCustomControls.dll
+C:\Endeavours\WPF\MyBindingLaboratory\MyCustomControls\bin\Debug\MyCustomControls.pdb
+C:\Endeavours\WPF\MyBindingLaboratory\MyCustomControls\obj\Debug\MyCustomControls.csprojAssemblyReference.cache
+C:\Endeavours\WPF\MyBindingLaboratory\MyCustomControls\obj\Debug\UserControl1.g.cs
+C:\Endeavours\WPF\MyBindingLaboratory\MyCustomControls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Endeavours\WPF\MyBindingLaboratory\MyCustomControls\obj\Debug\MyCustomControls_MarkupCompile.cache
+C:\Endeavours\WPF\MyBindingLaboratory\MyCustomControls\obj\Debug\MyCustomControls_MarkupCompile.lref
+C:\Endeavours\WPF\MyBindingLaboratory\MyCustomControls\obj\Debug\UserControl1.baml
+C:\Endeavours\WPF\MyBindingLaboratory\MyCustomControls\obj\Debug\MyCustomControls.g.resources
+C:\Endeavours\WPF\MyBindingLaboratory\MyCustomControls\obj\Debug\MyCustomControls.Properties.Resources.resources
+C:\Endeavours\WPF\MyBindingLaboratory\MyCustomControls\obj\Debug\MyCustomControls.csproj.GenerateResource.cache
+C:\Endeavours\WPF\MyBindingLaboratory\MyCustomControls\obj\Debug\MyCustomControls.csproj.CoreCompileInputs.cache
+C:\Endeavours\WPF\MyBindingLaboratory\MyCustomControls\obj\Debug\MyCustomControls.dll
+C:\Endeavours\WPF\MyBindingLaboratory\MyCustomControls\obj\Debug\MyCustomControls.pdb

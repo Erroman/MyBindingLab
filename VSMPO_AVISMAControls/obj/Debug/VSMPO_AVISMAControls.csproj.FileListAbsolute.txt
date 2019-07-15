@@ -1,0 +1,14 @@
+C:\Endeavours\WPF\MyBindingLaboratory\VSMPO_AVISMAControls\bin\Debug\VSMPO_AVISMAControls.dll
+C:\Endeavours\WPF\MyBindingLaboratory\VSMPO_AVISMAControls\bin\Debug\VSMPO_AVISMAControls.pdb
+C:\Endeavours\WPF\MyBindingLaboratory\VSMPO_AVISMAControls\obj\Debug\VSMPO_AVISMAControls.csprojAssemblyReference.cache
+C:\Endeavours\WPF\MyBindingLaboratory\VSMPO_AVISMAControls\obj\Debug\TimeMover.g.cs
+C:\Endeavours\WPF\MyBindingLaboratory\VSMPO_AVISMAControls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Endeavours\WPF\MyBindingLaboratory\VSMPO_AVISMAControls\obj\Debug\VSMPO_AVISMAControls_MarkupCompile.cache
+C:\Endeavours\WPF\MyBindingLaboratory\VSMPO_AVISMAControls\obj\Debug\VSMPO_AVISMAControls_MarkupCompile.lref
+C:\Endeavours\WPF\MyBindingLaboratory\VSMPO_AVISMAControls\obj\Debug\TimeMover.baml
+C:\Endeavours\WPF\MyBindingLaboratory\VSMPO_AVISMAControls\obj\Debug\VSMPO_AVISMAControls.g.resources
+C:\Endeavours\WPF\MyBindingLaboratory\VSMPO_AVISMAControls\obj\Debug\VSMPO_AVISMAControls.Properties.Resources.resources
+C:\Endeavours\WPF\MyBindingLaboratory\VSMPO_AVISMAControls\obj\Debug\VSMPO_AVISMAControls.csproj.GenerateResource.cache
+C:\Endeavours\WPF\MyBindingLaboratory\VSMPO_AVISMAControls\obj\Debug\VSMPO_AVISMAControls.csproj.CoreCompileInputs.cache
+C:\Endeavours\WPF\MyBindingLaboratory\VSMPO_AVISMAControls\obj\Debug\VSMPO_AVISMAControls.dll
+C:\Endeavours\WPF\MyBindingLaboratory\VSMPO_AVISMAControls\obj\Debug\VSMPO_AVISMAControls.pdb
